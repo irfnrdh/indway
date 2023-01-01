@@ -64,3 +64,15 @@ Indway is my way to list all of them just for me or someone like me how to be in
 - Add alternatives to a pre-existing entry using the "Other options: " style, for easy discovery.
 - Please only add **high-quality** items to this list. Quality is subjective, but the ideal additions to this list should not be difficult to use or spam the users.
 - Tools that are free/open-source are preferred. The idea of this list is to provide low-cost yet quality product development tools.
+
+
+
+## Open Course
+
+- MIT Open Courseware (OCW)
+  - [Popular Course](https://ocw.mit.edu/course-lists/most-popular-courses/)
+  - [All List Course](https://ocw.mit.edu/search/?f=Lecture%20Videos&s=-runs.best_start_date)
+- Khan Academy 
+  - [Life Skill](https://www.khanacademy.org/college-careers-more)
+  - [Computing](https://www.khanacademy.org/computing)
+- [Machine Learning](https://github.com/luspr/awesome-ml-courses)
