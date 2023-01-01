@@ -131,3 +131,14 @@ List of free online programming/CS courses
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [chhantyal/influential-cs-books](https://github.com/chhantyal/influential-cs-books)
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+
+
+### Tookkit 
+- Malware Analysis, Reverse Engineer : 
+  - https://rizin.re/
+  - https://cutter.re/
+  - https://pestudio.en.lo4d.com/windows
+  - https://github.com/hasherezade/pe-bear-releases
+- Api Testing 
+  - insomnia.rest
+  - postman.co -> tab test & run collection
