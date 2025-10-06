@@ -161,12 +161,12 @@ Target Backend:
 
 | Modul  | Fungsi                         | Deskripsi         |
 | ------ | ------------------------------ | ----------------- |
-| `say`  | `say("Hello")`                 | Output ke layar   |
-| `sys`  | `sys.time()`, `sys.platform()` | Info sistem       |
-| `file` | `file.read("a.txt")`           | File I/O          |
-| `net`  | `net.get(url)`                 | HTTP simple       |
-| `math` | `math.sum(list)`               | Operasi matematis |
-| `flow` | `flow.sleep(1)`                | Delay, timer      |
+| `cak`  | `cak("Hello")`                 | Output ke layar   |
+| `hmm`  | `sys.time()`, `sys.platform()` | Info sistem       |
+| `mane` | `file.read("a.txt")`           | File I/O          |
+| `konek`  | `net.get(url)`                | HTTP simple       |
+| `itong` | `math.sum(list)`               | Operasi matematis |
+| `kejab` | `flow.sleep(1)`                | Delay, timer      |
 
 ---
 
@@ -187,7 +187,7 @@ Target Backend:
 
 | Versi                | Fase                  | Target Utama                                 |
 | -------------------- | --------------------- | -------------------------------------------- |
-| **v0.1 (Prototype)** | Interpreter           | Bisa menjalankan `.ind` via Python           |
+| **v0.1 (Prototype)** | Interpreter           | Bisa menjalankan `.ind, .id, .fn, .fun ,.ne` via Python           |
 | **v0.2**             | Compiler LLVM backend | Output native & WASM                         |
 | **v0.3**             | Standar Library       | File I/O, Network, Math                      |
 | **v0.4**             | Package Manager       | `indway get <package>`                       |
@@ -201,26 +201,26 @@ Target Backend:
 ```indway
 # indway demo
 
-fn inspire(name) {
-    say "Jalanmu unik, " + name
-    say "Lakukan semaumu, asal mengalir."
+buat petuah(name) {
+    cak "Engko ne, " + name
+    cak "Entah manye ndak ko keja. Ko Buat la yg ko suke."
 }
 
-list = ["Irfan", "Neli", "Everyone"]
+dafta = ["Fan", "Dahtuhe", "Wak Yong"]
 
-for n in list:
-    inspire n
+ulangi ne di dafta:
+    petuah ne
 ```
 
 Output:
 
 ```
-Jalanmu unik, Irfan
-Lakukan semaumu, asal mengalir.
-Jalanmu unik, Neli
-Lakukan semaumu, asal mengalir.
-Jalanmu unik, Everyone
-Lakukan semaumu, asal mengalir.
+Engko ne, Irfan
+Entah manye ndak ko keja. Ko Buat la yg ko suke.
+Engko ne, Dahtuhe
+Entah manye ndak ko keja. Ko Buat la yg ko suke.
+Engko ne, Wak Yong
+Entah manye ndak ko keja. Ko Buat la yg ko suke.
 ```
 
 ---
@@ -251,7 +251,7 @@ Lakukan semaumu, asal mengalir.
 ## 14. 🪄 **Identitas & Branding**
 
 * Nama resmi: **indway**
-* Ekstensi file: `.ind, .id, .fn, .fun`
+* Ekstensi file: `.ind, .id, .fn, .fun ,.ne`
 * Logo: simbol “∞” yang dimodifikasi seperti aliran air
 * Warna utama: **biru tua dan abu terang**
 * Motto visual: *flow beyond syntax*
