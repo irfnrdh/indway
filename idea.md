@@ -5,7 +5,7 @@
 **Nama:** `indway`
 **Filosofi:**
 
-> “Kita bebas melakukan apa pun yang kita mau, semau kita.”
+> “Kita bebas melakukan apa pun yang kita mau, semau kita. sampai kita belajar bahwa ...”
 
 **Misi:**
 Menciptakan bahasa pemrograman yang *mengalir alami seperti pikiran*, fleksibel seperti bahasa manusia, namun tetap bisa dikompilasi ke berbagai perangkat — dari desktop, mobile, hingga web.
@@ -240,18 +240,18 @@ Lakukan semaumu, asal mengalir.
 
 | Komponen        | Nama     | Fungsi                          |
 | --------------- | -------- | ------------------------------- |
-| Compiler        | `indc`   | Compile `.ind` ke target        |
-| Interpreter     | `indrun` | Jalankan langsung tanpa compile |
+| Compiler        | `gabungin`   | Compile `.ind` ke target        |
+| Interpreter     | `jalanin` | Jalankan langsung tanpa compile |
 | CLI             | `indway` | Command utama                   |
-| Package manager | `indget` | Ambil & pasang library          |
-| Playground      | `indpad` | Web-based REPL (future)         |
+| Package manager | `ambilin` | Ambil & pasang library          |
+| Playground      | `mainin` | Web-based REPL (future)         |
 
 ---
 
 ## 14. 🪄 **Identitas & Branding**
 
 * Nama resmi: **indway**
-* Ekstensi file: `.ind`
+* Ekstensi file: `.ind, .id, .fn, .fun`
 * Logo: simbol “∞” yang dimodifikasi seperti aliran air
 * Warna utama: **biru tua dan abu terang**
 * Motto visual: *flow beyond syntax*
